@@ -1,0 +1,32 @@
+KEYWORD,CATEGORY,SUBCATEGORY,NECESSITY_FLAG
+starbucks,Food & Beverage,Coffee,Non-essential
+mcdonalds,Food & Beverage,Coffee,Non-essential
+mixue,Food & Beverage,Coffee,Non-essential
+campus cafe,Food & Beverage,Coffee,Non-essential
+foodpanda,Food & Beverage,Coffee,Non-essential
+grab,Transport,Ride,Necessary
+rapidkl,Transport,Ride,Necessary
+mrt,Transport,Ride,Necessary
+tng reload,Transport,Ride,Necessary
+tesco,Groceries,Supermarket,Necessary
+lotus,Groceries,Supermarket,Necessary
+aeon,Groceries,Supermarket,Necessary
+jaya grocer,Groceries,Supermarket,Necessary
+uniqlo,Shopping,Clothing,Non-essential
+shopee,Shopping,Clothing,Non-essential
+muji,Shopping,Clothing,Non-essential
+apple reseller,Shopping,Clothing,Non-essential
+netflix,Entertainment,Movie,Non-essential
+tgv,Entertainment,Movie,Non-essential
+steam,Entertainment,Movie,Non-essential
+spotify,Entertainment,Movie,Non-essential
+maxis,Bills,Phone,Necessary
+celcomdigi,Bills,Phone,Necessary
+unifi,Bills,Phone,Necessary
+tnb,Bills,Phone,Necessary
+bookxcess,Education,Books,Necessary
+campus print,Education,Books,Necessary
+udemy,Education,Books,Necessary
+guardian,Health,Clinic,Necessary
+watsons,Health,Clinic,Necessary
+campus clinic,Health,Clinic,Necessary

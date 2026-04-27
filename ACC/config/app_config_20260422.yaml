@@ -1,0 +1,13 @@
+app:
+  title: Personal Spending Insight Dashboard
+  currency: CNY
+  default_run_date: "20260422"
+  sample_data_path: data/processed/transactions_featured_int_20260422.csv
+  mapping_path: data/metadata/category_mapping_20260422.csv
+scoring:
+  healthy_threshold: 80
+  moderate_threshold: 60
+validation:
+  min_transactions: 300
+  min_categories: 6
+  min_months: 6
